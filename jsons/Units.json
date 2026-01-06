@@ -12,7 +12,7 @@
 		"cost": 400,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
-		"uniques": ["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>", "[+20]% Strength <when attacking> <when [Embarked]> <when [Embarked]>"],
+		"uniques": ["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>", "[+20]% Strength <when attacking> <when [Embarked]>"],
 		"attackSound": "shot"
 	}
 ]
