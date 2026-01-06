@@ -11,7 +11,7 @@
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"happiness": 2,
-		"uniques": ["[+10]% [Production] [in all coastal cities]"]
+		"uniques": ["[+15]% [Production] [in this city] <with [1] to [6] neighboring [{Coast}] tiles>"]
 		"requiredResource": "Coal",
 		"requiredTech": "Steam Power"
 	}
