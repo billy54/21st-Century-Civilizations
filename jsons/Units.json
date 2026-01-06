@@ -4,7 +4,7 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "People's Republic of China",
 		"replaces": "Marine",
-		"movement": 2,
+		"movement": 3,
 		"strength": 65,
 		"cost": 400,
 		"requiredTech": "Pharmaceuticals",
