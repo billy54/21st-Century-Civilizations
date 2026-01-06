@@ -1,17 +1,18 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
+
+	}
+		{
+		"name": "Amphibious Assault Unit",
+		"unitType": "Gunpowder",
 		"uniqueTo": "People's Republic of China",
-		"replaces": "Machine Gun",
+		"replaces": "Marine",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"strength": 65,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>", "[+20]% Strength <when attacking> <when [Embarked]> <when [Embarked]>"],
+		"attackSound": "shot"
 	}
 ]
